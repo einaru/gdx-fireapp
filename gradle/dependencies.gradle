@@ -50,6 +50,7 @@ libs.firebase = [
         auth    : "com.google.firebase:firebase-auth",
         crash   : "com.google.firebase:firebase-crashlytics",
         database: "com.google.firebase:firebase-database",
+        firestore: "com.google.firebase:firebase-firestore",
         analytics: "com.google.firebase:firebase-analytics"
 ]
 libs.crashlytics = "com.google.firebase:firebase-crashlytics:"
